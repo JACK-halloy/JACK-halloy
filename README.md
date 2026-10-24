@@ -11,7 +11,7 @@
 ---
 
 ## Badges
-
+...
 https://img.shields.io/badge/Networking-TCP%2FIP-blue
 https://img.shields.io/badge/MikroTik-RouterOS-red
 https://img.shields.io/badge/Linux-Administration-yellow
@@ -24,7 +24,7 @@ https://img.shields.io/badge/Google-Cybersecurity-success
 https://img.shields.io/badge/Cisco-Networking_Academy-blue
 https://img.shields.io/badge/PCAP-Python-yellow
 https://img.shields.io/badge/EGEL-CENEVAL-green
-
+...
 ---
 ## Prueba
 https://img.shields.io/badge/Linux-Administration-yellow
