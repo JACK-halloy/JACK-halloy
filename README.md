@@ -34,7 +34,7 @@ no# 👋 Hi, I'm JACK-halloy
 ![Java](https://img.shields.io/badge/EGEL-CENEVAL-green)
 ![C++](https://img.shields.io/badge/EGEL-CENEVAL-green)
 
-![Snake animation](https://fxnoob.com)
+![Snake animation](https://github.com/JACK-halloy/JACK-halloy/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
