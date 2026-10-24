@@ -9,6 +9,7 @@
 🌐 Networking | MikroTik | FTTH | Linux | Cloud Learning
 
 ---
+https://github-readme-stats.vercel.app/api?username=JACK-halloy&show_icons=true&theme=dark
 
 ## Badges
 
