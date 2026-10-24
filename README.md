@@ -26,11 +26,11 @@ https://img.shields.io/badge/PCAP-Python-yellow
 https://img.shields.io/badge/EGEL-CENEVAL-green
 
 
- # Prueba
-
+## Prueba
 https://img.shields.io/badge/Linux-Administration-yellow
 ---
-
+https://github-readme-stats.vercel.app/api?username=JACK-halloy&show_icons=true&theme=dark
+ 
 ## Sobre mí
 
 Soy Ingeniero en Sistemas Computacionales con experiencia práctica en:
