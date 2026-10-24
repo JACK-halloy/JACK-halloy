@@ -13,14 +13,29 @@
 ## Badges
 
 https://img.shields.io/badge/Networking-TCP%2FIP-blue
+
 https://img.shields.io/badge/MikroTik-RouterOS-red
+
 https://img.shields.io/badge/Linux-Administration-yellow
+
 https://img.shields.io/badge/FTTH-Fiber%20Optics-green
+
 https://img.shields.io/badge/Python-Automation-blue
+
 https://img.shields.io/badge/ISP-Operations-orange
+
 https://img.shields.io/badge/Cloud-Learning-lightblue
+
 https://img.shields.io/badge/Cybersecurity-Google%20Certified-darkgreen
 
+https://img.shields.io/badge/Google-Cybersecurity-success
+
+https://img.shields.io/badge/Cisco-Networking_Academy-blue
+
+https://img.shields.io/badge/PCAP-Python-yellow
+
+https://img.shields.io/badge/EGEL-CENEVAL-green
+ 
 ---
 
 ## Sobre mí
