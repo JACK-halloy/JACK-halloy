@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JACK-halloy
+no# 👋 Hi, I'm JACK-halloy
 
 ### Computer Systems Engineer | Networking | Infrastructure | ISP Operations | Infrastructure
 
@@ -25,8 +25,15 @@
 ---
 ## Prueba
 ![Badge de ejemplo](https://img.shields.io/badge/Linux-Administration-yellow)
+
 ---
 ![Badge de ejemplo](https://github-readme-stats.vercel.app/api?username=JACK-halloy&show_icons=true&theme=dark)
+![JavaScript](https://img.shields.io/badge/EGEL-CENEVAL-green)
+![TypeScript](https://img.shields.io/badge/EGEL-CENEVAL-green)
+![Python](https://img.shields.io/badge/EGEL-CENEVAL-green)
+![Java](https://img.shields.io/badge/EGEL-CENEVAL-green)
+![C++](https://img.shields.io/badge/EGEL-CENEVAL-green)
+
 ---
 ## Sobre mí
 
