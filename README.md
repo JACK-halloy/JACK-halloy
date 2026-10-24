@@ -34,6 +34,9 @@ no# 👋 Hi, I'm JACK-halloy
 ![Java](https://img.shields.io/badge/EGEL-CENEVAL-green)
 ![C++](https://img.shields.io/badge/EGEL-CENEVAL-green)
 
+![Snake animation](https://fxnoob.com)
+
+
 ---
 ## Sobre mí
 
