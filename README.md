@@ -24,9 +24,10 @@ https://img.shields.io/badge/Google-Cybersecurity-success
 https://img.shields.io/badge/Cisco-Networking_Academy-blue
 https://img.shields.io/badge/PCAP-Python-yellow
 https://img.shields.io/badge/EGEL-CENEVAL-green
-...
+
 ---
 ## Prueba
+``
 https://img.shields.io/badge/Linux-Administration-yellow
 ---
 https://github-readme-stats.vercel.app/api?username=JACK-halloy&show_icons=true&theme=dark
