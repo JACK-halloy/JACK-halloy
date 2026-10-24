@@ -1,4 +1,4 @@
-no# 👋 Hi, I'm JACK-halloy
+# 👋 Hi, I'm JACK-halloy
 
 ### Computer Systems Engineer | Networking | Infrastructure | ISP Operations | Infrastructure
 
