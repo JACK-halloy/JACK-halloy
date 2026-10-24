@@ -11,8 +11,7 @@
 ---
 
 ## Badges
-...
-https://img.shields.io/badge/Networking-TCP%2FIP-blue
+![Badge de ejemplo](https://img.shields.io/badge/Networking-TCP%2FIP-blue)
 https://img.shields.io/badge/MikroTik-RouterOS-red
 https://img.shields.io/badge/Linux-Administration-yellow
 https://img.shields.io/badge/FTTH-Fiber%20Optics-green
