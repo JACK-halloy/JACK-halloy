@@ -1,4 +1,4 @@
-# 👋 Hola, soy Josué Abiel Cruz Ramírez
+# 👋 Hola, soy Josué Cruz
 
 ### Computer Systems Engineer | Network Engineer | ISP Operations | Infrastructure
 
