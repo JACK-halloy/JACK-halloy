@@ -36,7 +36,9 @@
 
 ![Snake animation](https://github.com/JACK-halloy/JACK-halloy/blob/output/github-contribution-grid-snake.svg)
 
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,postgres,redis,docker,aws&perline=8&theme=dark"/>
 ---
 ## Sobre mí
 
