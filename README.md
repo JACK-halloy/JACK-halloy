@@ -73,6 +73,7 @@ Actualmente me encuentro desarrollando experiencia en:
 ---
 
 # Tecnologías
+
 ## Redes
 
 - TCP/IP
@@ -110,6 +111,7 @@ Actualmente me encuentro desarrollando experiencia en:
 # Experiencia Profesional
 
 ## ALFIBER ISP
+
 ### Network & Infrastructure Support
 
 - Soporte técnico para clientes residenciales y empresariales.
