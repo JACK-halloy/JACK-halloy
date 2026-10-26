@@ -42,7 +42,6 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,postgres,redis,docker,aws&perline=8&theme=dark"/>
 ---
-
 # Sobre mí
 
 Soy Ingeniero en Sistemas Computacionales con experiencia práctica en:
@@ -67,7 +66,6 @@ Actualmente me encuentro desarrollando experiencia en:
 ---
 
 # Tecnologías
-
 ## Redes
 
 - TCP/IP
