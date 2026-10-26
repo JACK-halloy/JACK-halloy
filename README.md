@@ -13,6 +13,7 @@
 ---
 
 ## Badges
+
 ![Badge de ejemplo](https://img.shields.io/badge/Networking-TCP%2FIP-blue)
 ![Badge de ejemplo](https://img.shields.io/badge/MikroTik-RouterOS-red)
 ![Badge de ejemplo](https://img.shields.io/badge/FTTH-Fiber%20Optics-green)
@@ -24,11 +25,15 @@
 ![Badge de ejemplo](https://img.shields.io/badge/Cisco-Networking_Academy-blue)
 ![Badge de ejemplo](https://img.shields.io/badge/PCAP-Python-yellow)
 ![Badge de ejemplo](https://img.shields.io/badge/EGEL-CENEVAL-green)
+
 ---
+
 ## Prueba
+
 ![Badge de ejemplo](https://img.shields.io/badge/Linux-Administration-yellow)
 
 ---
+
 ![Badge de ejemplo](https://github-readme-stats.vercel.app/api?username=JACK-halloy&show_icons=true&theme=dark)
 ![JavaScript](https://img.shields.io/badge/EGEL-CENEVAL-green)
 ![TypeScript](https://img.shields.io/badge/EGEL-CENEVAL-green)
@@ -41,6 +46,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8&theme=dark"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,postgres,redis,docker,aws&perline=8&theme=dark"/>
+
 ---
 
 # Sobre mí
